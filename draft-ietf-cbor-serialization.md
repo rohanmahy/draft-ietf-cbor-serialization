@@ -10,15 +10,15 @@ date:
 consensus: true
 stream: IETF
 ipr: trust200902
-area:  "Applications and Real-Time"
-workgroup: CBOR
+area: "Applications and Real-Time"
+workgroup: "Concise Binary Object Representation Maintenance and Extensions"
 keyword: cbor
 venue:
-    group: CBOR
-    type: Working Group
-    mail: cbor@ietf.org
-    arch: "https://mailarchive.ietf.org/arch/browse/cbor/"
-    github: "cbor-wg/draft-ietf-cbor-serialization"
+  group: "Concise Binary Object Representation Maintenance and Extensions"
+  type: "Working Group"
+  mail: "cbor@ietf.org"
+  arch: "https://www.ietf.org/mail-archive/web/cbor/current/maillist.html"
+  github: "rohanmahy/draft-ietf-cbor-serialization"
 
 
 
