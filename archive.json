@@ -1,0 +1,81 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2025-12-14T01:59:29.813779+00:00",
+  "repo": "rohanmahy/draft-ietf-cbor-serialization",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOQmrbkM64hyvq",
+      "title": "Rohan's minor rewordings and NITs",
+      "url": "https://github.com/rohanmahy/draft-ietf-cbor-serialization/pull/1",
+      "state": "OPEN",
+      "author": "rohanmahy",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Some proposed rewording, NITs, and typos.\r\n\r\nNote: references aren't allowed in the abstract or section headings. Hence those changes.",
+      "createdAt": "2025-12-12T09:22:24Z",
+      "updatedAt": "2025-12-12T09:22:24Z",
+      "baseRepository": "rohanmahy/draft-ietf-cbor-serialization",
+      "baseRefName": "main",
+      "baseRefOid": "76aa91e022ac7bc1d6719bbf8c1b4e74d6297159",
+      "headRepository": "rohanmahy/draft-ietf-cbor-serialization",
+      "headRefName": "rohan-review",
+      "headRefOid": "0384e387e0e7bd18ced515b8b2935b12f0077aec",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
